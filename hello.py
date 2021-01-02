@@ -1,5 +1,5 @@
 print("Hello World!")
-exit=1
+exit=0
 
 
 

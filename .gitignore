@@ -12,7 +12,7 @@ dist
 build
 
 #Java
-.class
+*.class
 
 #My configurations:
 db.ini
